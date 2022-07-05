@@ -1,0 +1,29 @@
+.div1{
+    border: 1px solid red;
+    padding: 50px;
+    /* padding-left: ;
+    padding-right: ;
+    padding-top: ;
+    padding-bottom: ;
+    top bottom right left */
+}
+body{
+    border: 5px dotted black;
+}
+#marg{
+   
+   
+   margin: 50px;
+    /* margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 25px; 
+    top bottom right left
+    for overlsppiing we can use neagtive value
+    
+    margin collapse is imp*/
+}
+#marg{
+    width: 200px;
+    margin: 20px auto;
+}

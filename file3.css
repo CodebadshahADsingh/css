@@ -1,0 +1,11 @@
+#bg{
+    background-image: url(imgads.png);
+    background-repeat: no-repeat;
+    background-position:  center;
+    background-size: contain ;
+    background-attachment: fixed;
+
+}
+body{
+    background-color: red;
+}

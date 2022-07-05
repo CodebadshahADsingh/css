@@ -1,0 +1,42 @@
+#text{
+    width: 500px;
+    border: 1px solid black;
+    /* color: red;
+    text-align: center; */
+    /* direction: rtl; */
+    /* text-decoration: line-through ;
+     */
+     text-transform: uppercase;
+     /* line-height: 100px;
+      */
+      /* text-indent: 10px; */
+      /* letter-spacing: 20px;
+       */
+       /* word-spacing: 10px;
+        */
+/* 
+        white-space: pre;
+        
+        white-space: nowrap; */
+
+
+        /* word-wrap: break-word; */
+        color: red;
+
+    }
+
+    #shadow{
+        font-size: 70px;
+        text-shadow: 5px 10px 6px red;
+    }
+
+    #text2{
+        width: 300px;
+        border: 1px solid blue;
+        writing-mode: vertical-rl;
+    }
+    #text2{
+        width: 300px;
+        border: 1px solid red;
+        writing-mode: vertical-lr;
+    }

@@ -1,0 +1,13 @@
+body{
+    border: solid beige;
+    height: 150px;
+}
+#div1{
+    background-color: purple;
+    height: 50px;
+    width: 50%;
+    max-width: 400px;
+    /* max-height: ;
+    min-width: none;
+    min-height: ; */
+}
